@@ -1,0 +1,19 @@
+{
+  "name": "ts-jsdoc-support-jsx",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimamula/ts-jsdoc-support-jsx.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "kimamula",
+  "devDependencies": {
+    "@types/react": "^15.0.23",
+    "typescript": "^2.3.2"
+  }
+}
